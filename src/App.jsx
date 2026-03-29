@@ -170,7 +170,7 @@ const texts = [
       ["Başvurumun", "sonucunu", "nasıl", "takip", "edebilirim", "?"],
       ["Teşekkür", "ederim", "."]
     ]
-  }
+  },
   // ==== B1 LONG TEXTS ====
 
 {
