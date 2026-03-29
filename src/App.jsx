@@ -171,6 +171,159 @@ const texts = [
       ["Teşekkür", "ederim", "."]
     ]
   }
+  // ==== B1 LONG TEXTS ====
+
+{
+  id: "b1_1",
+  title: "Starting a New Life Abroad",
+  category: "Life",
+  level: "B1",
+  words: [],
+  sentences: [
+    ["İki", "yıldan", "beri", "yurtdışında", "yaşıyorum", "."],
+    ["İlk", "geldiğimde", "çok", "zorlanmıştım", "çünkü", "hiç", "kimseyi", "tanımıyordum", "."],
+    ["Dil", "bilmediğim", "için", "en", "basit", "şeyler", "bile", "çok", "zor", "geliyordu", "."],
+    ["Yalnızlık", "yüzünden", "bazen", "geri", "dönmeyi", "düşündüm", "."],
+    ["Ama", "zamanla", "alıştım", "ve", "şimdi", "burada", "yaşamaktan", "memnunum", "."]
+  ]
+},
+
+{
+  id: "b1_2",
+  title: "Working Remotely",
+  category: "Work",
+  level: "B1",
+  words: [],
+  sentences: [
+    ["Pandemiden", "beri", "evden", "çalışıyorum", "."],
+    ["Başta", "çok", "rahat", "olduğunu", "düşünüyordum", "ama", "sonra", "zor", "olduğunu", "fark", "ettim", "."],
+    ["Sürekli", "evde", "olduğum", "için", "sosyal", "hayatım", "azaldı", "."],
+    ["Toplantılar", "yüzünden", "bütün", "gün", "bilgisayar", "başında", "oturuyorum", "."],
+    ["Yine", "de", "trafik", "olmadığı", "için", "bu", "sistemi", "seviyorum", "."]
+  ]
+},
+
+{
+  id: "b1_3",
+  title: "Learning a New Language",
+  category: "Education",
+  level: "B1",
+  words: [],
+  sentences: [
+    ["Altı", "aydan", "beri", "Türkçe", "öğreniyorum", "."],
+    ["Başta", "çok", "zor", "geliyordu", "çünkü", "gramer", "çok", "farklı", "."],
+    ["Her", "gün", "çalıştığım", "için", "yavaş", "yavaş", "gelişiyorum", "."],
+    ["Hata", "yapmaktan", "korkmama", "rağmen", "konuşmaya", "çalışıyorum", "."],
+    ["Bu", "süreç", "zor", "olsa", "da", "çok", "keyifli", "."]
+  ]
+},
+
+{
+  id: "b1_4",
+  title: "City Life vs Nature",
+  category: "Lifestyle",
+  level: "B1",
+  words: [],
+  sentences: [
+    ["Uzun", "zamandır", "şehirde", "yaşıyorum", "."],
+    ["Gürültü", "yüzünden", "bazen", "çok", "yoruluyorum", "."],
+    ["Ama", "işim", "burada", "olduğu", "için", "taşınamıyorum", "."],
+    ["Doğada", "yaşamak", "istememe", "rağmen", "şu", "an", "mümkün", "değil", "."],
+    ["Yine", "de", "hafta", "sonları", "kaçmaya", "çalışıyorum", "."]
+  ]
+},
+
+{
+  id: "b1_5",
+  title: "Daily Routine",
+  category: "Life",
+  level: "B1",
+  words: [],
+  sentences: [
+    ["Sabahları", "erken", "kalkmaya", "alıştım", "."],
+    ["İşe", "gitmeden", "önce", "spor", "yapıyorum", "."],
+    ["Yorgun", "olduğum", "için", "bazen", "zor", "oluyor", "."],
+    ["Ama", "bu", "alışkanlığı", "kazandığımdan", "beri", "kendimi", "daha", "iyi", "hissediyorum", "."],
+    ["Düzenli", "yaşamak", "hayatımı", "çok", "değiştirdi", "."]
+  ]
+},
+
+// дальше продолжаю в том же формате...
+
+{
+  id: "b1_6",
+  title: "Technology and Life",
+  category: "Technology",
+  level: "B1",
+  words: [],
+  sentences: [
+    ["Teknoloji", "hayatımızı", "çok", "değiştirdi", "."],
+    ["Telefonlar", "yüzünden", "insanlar", "daha", "az", "iletişim", "kuruyor", "."],
+    ["Ama", "internet", "olduğu", "için", "her", "şeye", "kolayca", "ulaşabiliyoruz", "."],
+    ["Bu", "durum", "iyi", "olmasına", "rağmen", "bazen", "tehlikeli", "olabiliyor", "."],
+    ["Dengeyi", "kurmak", "çok", "önemli", "."]
+  ]
+},
+
+{
+  id: "b1_7",
+  title: "Friendship",
+  category: "Relationships",
+  level: "B1",
+  words: [],
+  sentences: [
+    ["Uzun", "zamandır", "aynı", "arkadaşlarımla", "görüşüyorum", "."],
+    ["Yoğunluk", "yüzünden", "çok", "sık", "buluşamıyoruz", "."],
+    ["Ama", "tanıştığımızdan", "beri", "bağımız", "çok", "güçlü", "."],
+    ["Farklı", "şehirlerde", "yaşamamıza", "rağmen", "iletişimimizi", "kaybetmedik", "."],
+    ["Gerçek", "arkadaşlık", "bence", "böyle", "olur", "."]
+  ]
+},
+
+{
+  id: "b1_8",
+  title: "Health Problems",
+  category: "Health",
+  level: "B1",
+  words: [],
+  sentences: [
+    ["Son", "zamanlarda", "çok", "yorgunum", "."],
+    ["Stres", "yüzünden", "uyuyamıyorum", "."],
+    ["Doktora", "gittiğim", "için", "durumumu", "anladım", "."],
+    ["İlaç", "kullanmama", "rağmen", "hemen", "iyileşmedim", "."],
+    ["Ama", "daha", "iyi", "olacağıma", "inanıyorum", "."]
+  ]
+},
+
+{
+  id: "b1_9",
+  title: "Travel Experience",
+  category: "Travel",
+  level: "B1",
+  words: [],
+  sentences: [
+    ["Geçen", "yaz", "tek", "başına", "seyahat", "ettim", "."],
+    ["Başta", "korktuğum", "için", "çok", "heyecanlıydım", "."],
+    ["Ama", "yola", "çıktığımdan", "beri", "çok", "şey", "öğrendim", "."],
+    ["Zor", "olmasına", "rağmen", "çok", "güzel", "bir", "deneyimdi", "."],
+    ["Tekrar", "yapmak", "istiyorum", "."]
+  ]
+},
+
+{
+  id: "b1_10",
+  title: "Work-Life Balance",
+  category: "Work",
+  level: "B1",
+  words: [],
+  sentences: [
+    ["İş", "ve", "özel", "hayat", "dengesini", "kurmak", "zor", "."],
+    ["Çok", "çalıştığım", "için", "kendime", "zaman", "ayıramıyorum", "."],
+    ["Bu", "durum", "yüzünden", "bazen", "mutsuz", "oluyorum", "."],
+    ["Ama", "değiştirmek", "istiyorum", "."],
+    ["Son", "zamanlarda", "daha", "dikkatli", "davranıyorum", "."]
+  ]
+}
 ];
 
 const appStyles = `
